@@ -2,8 +2,8 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$$$$$$$$$0 from "./apps/deco/brand-assistant.ts";
-import * as $$$$$$$$$$$1 from "./apps/deco/htmx.ts";
+import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
+import * as $$$$$$$$$$$1 from "./apps/deco/nuvemshop.ts";
 import * as $$$$$$$$$$$2 from "./apps/site.ts";
 import * as $$$$$$0 from "./sections/BlogPosts.tsx";
 import * as $$$$$$1 from "./sections/Faq.tsx";
@@ -34,8 +34,8 @@ const manifest = {
     "site/sections/Theme/Theme.tsx": $$$$$$8,
   },
   "apps": {
-    "site/apps/deco/brand-assistant.ts": $$$$$$$$$$$0,
-    "site/apps/deco/htmx.ts": $$$$$$$$$$$1,
+    "site/apps/deco/htmx.ts": $$$$$$$$$$$0,
+    "site/apps/deco/nuvemshop.ts": $$$$$$$$$$$1,
     "site/apps/site.ts": $$$$$$$$$$$2,
   },
   "name": "site",
